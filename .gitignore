@@ -1,0 +1,14 @@
+# Environment setups
+env/
+.env/
+venv/
+.venv/
+ENV/
+.ENV/
+
+# Python
+__pycache__/
+*pyc
+*.ipynb_checkpoints/
+.cache/
+.pytest_cache/
